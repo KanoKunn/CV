@@ -37,8 +37,6 @@ gpu: NVIDIA GeForce RTX 2060
 ## 论文复现演示视频
 
 
+https://github.com/KanoKunn/CV/assets/146503264/337f51cc-2b44-4628-be51-c607c6040e3d
 
-# CV_CourseWork
-# CV_CourseWork
-# CV_CourseWork
-# CV
+
