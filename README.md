@@ -28,11 +28,11 @@ cpu: AMD Ryzen 7 4800H with Radeon Graphics
 
 gpu: NVIDIA GeForce RTX 2060
 
-详细项目环境请查看我在虚拟环境导出的[environment.yaml]()
+详细项目环境请查看我在虚拟环境导出的[environment.yaml](https://github.com/KanoKunn/CV/blob/main/environment.yaml)
 
 如果您需要使用我的项目环境，请按照以下代码导入：
 
-'<conda env create -f environment.yaml>'
+conda env create -f environment.yaml
 
 ## 论文复现演示视频
 
