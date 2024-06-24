@@ -35,6 +35,7 @@ gpu: NVIDIA GeForce RTX 2060
 conda env create -f environment.yaml
 
 ## 论文复现演示视频
+论分复现视频请下载[CV_DEMO.mp4](https://github.com/KanoKunn/CV/blob/main/CV_DEMO.mp4)，或者观看下方
 
 
 https://github.com/KanoKunn/CV/assets/146503264/337f51cc-2b44-4628-be51-c607c6040e3d
